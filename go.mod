@@ -1,3 +1,3 @@
-module github.com/ymiz/niconico-search-client
+module nicosearch
 
 go 1.12
