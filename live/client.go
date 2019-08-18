@@ -1,12 +1,12 @@
 package live
 
 import (
+	"github.com/ymiz/niconico-search-client/common"
+	"github.com/ymiz/niconico-search-client/live/fields"
+	"github.com/ymiz/niconico-search-client/live/filters"
+	"github.com/ymiz/niconico-search-client/live/sort"
+	"github.com/ymiz/niconico-search-client/live/targets"
 	"net/url"
-	"niconico-search-client/common"
-	"niconico-search-client/live/fields"
-	"niconico-search-client/live/filters"
-	"niconico-search-client/live/sort"
-	"niconico-search-client/live/targets"
 	"strconv"
 )
 
