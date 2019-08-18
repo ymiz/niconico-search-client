@@ -3,11 +3,11 @@ package main
 import (
 	"log"
 	"net/http"
-	"nicosearch/live"
-	"nicosearch/live/fields"
-	"nicosearch/live/filters"
-	"nicosearch/live/sort"
-	"nicosearch/live/targets"
+	"niconico-search-client/live"
+	"niconico-search-client/live/fields"
+	"niconico-search-client/live/filters"
+	"niconico-search-client/live/sort"
+	"niconico-search-client/live/targets"
 	"time"
 )
 

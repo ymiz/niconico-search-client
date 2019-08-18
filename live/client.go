@@ -2,11 +2,11 @@ package live
 
 import (
 	"net/url"
-	"nicosearch/common"
-	"nicosearch/live/fields"
-	"nicosearch/live/filters"
-	"nicosearch/live/sort"
-	"nicosearch/live/targets"
+	"niconico-search-client/common"
+	"niconico-search-client/live/fields"
+	"niconico-search-client/live/filters"
+	"niconico-search-client/live/sort"
+	"niconico-search-client/live/targets"
 	"strconv"
 )
 
